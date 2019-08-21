@@ -31,7 +31,7 @@ Also, you need to install the `walkdir` library.
 ```
 pip install walkdir
 ```
-Learn more about the walkdir library documentation [here](walkdir.readthedocs.io)
+Learn more about the walkdir library documentation [here](https://walkdir.readthedocs.io)
 
 ### How to Use
 Run the following command.
